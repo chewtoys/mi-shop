@@ -65,7 +65,6 @@ DEMO
 * 我的
 * 商品详情
   * 加入购物车
-## 请我喝杯咖啡，支持更多开源
-![1024.png](https://i.loli.net/2018/07/25/5b57cb91a44a1.png)
+
 ## LICENSE
 <a href="https://github.com/Jon-Millent/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="MIT" /></a>
